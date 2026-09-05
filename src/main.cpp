@@ -1,3 +1,7 @@
+//TECKBOTS SIT
+//SHARATH 
+//https://www.linkedin.com/in/sharath-788233382
+
 #include <SPI.h>
 #include <MFRC522.h>
 #include <Keypad.h>
@@ -9,9 +13,9 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-const char *WIFI_SSID = "VHK";
-const char *WIFI_PASSWORD = "varunhkk1";
-const char *GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbx_K3G77hTd3O4iCj1Ci_GkL1PIJngPnl_Mbz-qy1q6Np0PtzVtN2-O6rRgbPr9NYUM/exec";
+const char *WIFI_SSID = "wifi_name";
+const char *WIFI_PASSWORD = "wifi_password";
+const char *GOOGLE_SCRIPT_URL = "GOOGLE SPREAD SHEET LINK";
 
 // ---------- RFID pins ----------
 #define RST_PIN 22
