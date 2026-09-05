@@ -39,7 +39,7 @@ The circuit connects the ESP32 with the RFID reader, OLED display, keypad, and b
 
 ##  System Workflow
 
-![System Workflow](workflow.png)
+![System Workflow](Workflow.png)
 
 ### Working Process
 
