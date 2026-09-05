@@ -35,11 +35,11 @@ The system combines an MFRC522 RFID reader, 4×4 keypad, OLED display, buzzer, W
 
 The circuit connects the ESP32 with the RFID reader, OLED display, keypad, and buzzer.
 
-![Circuit Diagram](docs/circuit_diagram.png)
+![Circuit Diagram](docs/circuit.png)
 
 ##  System Workflow
 
-![System Workflow](docs/system_workflow.png)
+![System Workflow](docs/workflow.png)
 
 ### Working Process
 
